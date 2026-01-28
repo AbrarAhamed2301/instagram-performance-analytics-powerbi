@@ -13,6 +13,22 @@ To help creators, marketers, and businesses answer key questions:
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🔹 Instagram Performance Overview
+![Instagram Performance Overview](images/dashboard_page1.png)
+
+---
+
+### 🔹 Reels & Content Analysis
+![Reels & Content Analysis](images/dashboard_page2.png)
+
+---
+
+### 🔹 Best Time & Growth
+![Best Time & Growth](images/dashboard_page3.png)
+
+
 ## 🛠 Tools & Technologies
 - Power BI
 - DAX (Measures & KPIs)
